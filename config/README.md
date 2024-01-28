@@ -13,9 +13,9 @@
     "users": [
         {
             "cookieDatas": {  // 账号一
-                "SESSDATA": "xxxxx",
-                "bili_jct": "xxxxx",
-                "DedeUserID": "xxxxx"
+                "SESSDATA": "55af2742%2C1721917961%2Cb446f%2A11CjB9sHwHhLVqkoAUxI564ek25Scqs5hO7Znknh1Gp_l3vNQF8huebWllIoRv66Y1gEISVlFYMmFxUVZqcG1MSmFhZ0YxMGFRbmVkNldtdC00eHYtckxNczNQRWtKOVR3aFo0ckw2eUlqX0U1M2FpdmtfczdOWlBSajB1UXFUTWVsLWZlRXoySVFnIIEC",
+                "bili_jct": "151628f157cedff9826a9cea20ce058d; hit-dyn-v2=1",
+                "DedeUserID": "__ckMd5=228b1830cb2ff0d2; i-wanna-go-back=-1; b_ut=5"
             }
         },
         {
